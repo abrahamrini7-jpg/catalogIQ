@@ -306,3 +306,6 @@ For issues:
 1. Check logs: `agent_worker.py` outputs
 2. Check MongoDB: View task status and `agent_log`
 3. Test WordPress connection: `python3 test_wordpress_api.py`
+
+## Demo Video
+
